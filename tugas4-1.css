@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+}
+
+.gambar {
+display: inline; 
+float : left; 
+margin-left :10px; 
+margin-top:20px;
+width : 200px;
+}
+
+.profile {
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+
+.tabel menu {
+    display: inline; 
+    float:right; 
+    margin-right:50px; 
+    font-size: 17px; 
+    text-align:right;
+}
+
+b {
+font-size: larger;
+}
+
+.isi section p {
+    float: left; 
+    margin-left:50px; 
+    font-size: 17px;
+}
+
+.bawah {
+    float: left; 
+    margin-left:50px;
+}
+
+.cnvs {
+    border: 1px solid black; 
+    margin-left: 50px;
+}
+
+.bingkai {
+    float: right; 
+    margin-right:40px;
+}
